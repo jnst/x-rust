@@ -1,5 +1,15 @@
 # x-rust
 
+## Run
+
+```sh
+cargo run
+```
+
+```sh
+cargo test
+```
+
 ## Development
 
 ```sh
