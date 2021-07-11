@@ -1,4 +1,4 @@
-pub mod hello_world;
-pub mod leet_code;
+mod hello_world;
+mod leet_code;
 
 extern crate clap;
