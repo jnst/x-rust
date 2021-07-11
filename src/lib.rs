@@ -1,5 +1,5 @@
-mod hello_world;
-mod introduction;
-mod leet_code;
+pub mod hello_world;
+pub mod introduction;
+pub mod leet_code;
 
 extern crate clap;
