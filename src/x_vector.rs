@@ -1,4 +1,7 @@
-fn add_vectors(vector1: &[i32], vector2: &[i32]) -> Result<Vec<i32>, String> {
+pub fn add_vectors(
+    vector1: &[i32],
+    vector2: &[i32],
+) -> Result<Vec<i32>, String> {
     if vector1.len() != vector2.len() {
         return Err("invalid argument".to_string());
     }

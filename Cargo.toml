@@ -1,5 +1,5 @@
 [package]
-name = "x-rust"
+name = "x_rust"
 version = "0.1.0"
 authors = ["jnst <jnst@outlook.com>"]
 edition = "2018"
