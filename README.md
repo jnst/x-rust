@@ -3,11 +3,15 @@
 ## Run
 
 ```sh
-cargo run
+cargo run hello
 ```
 
 ```sh
 cargo test
+```
+
+```sh
+cargo run --example add_vectors 
 ```
 
 ## Development
